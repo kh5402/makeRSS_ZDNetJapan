@@ -24,7 +24,7 @@ jobs:
         pip install requests pytz
 
     - name: Run makeRSS_GoogleNews.py Script
-      run: python3 makeRSS_KORIT.py  # Pythonファイルのパスを適切に設定してね
+      run: python3 makeRSS_ZDNetJapan.py  # Pythonファイルのパスを適切に設定してね
     
     - name: Commit and push changes
       run: |
