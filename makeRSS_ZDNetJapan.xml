@@ -2,236 +2,392 @@
 <rss version="2.0">
   
   
+  
+  
   <channel>
+    
+    
     
     
     <title>ZDNet Japanの特定のキーワードを含むRSS</title>
     
     
+    
+    
     <description>ZDNet Japanから特定のキーワードを含む記事を提供します。</description>
+    
+    
     
     
     <link>https://example.com</link>
     
     
+    
+    
     <item>
+      
+      
       
       
       <title>生成AI支出、2027年に約21兆円規模に--IDC</title>
       
       
+      
+      
       <link>https://japan.zdnet.com/article/35210329/</link>
+      
+      
       
       
       <description>IDCは、2027年に生成AIソリューションに関する支出が1430億ドル（約21兆円）に達すると予測している。&amp;lt;br clear='left'&amp;gt;&amp;lt;a href='https://japan.zdnet.com/article/35210329/'&amp;gt;&amp;lt;img src='https://japan.zdnet.com/storage/2023/10/17/84d9793ba17ee22f4a3554f6cc4e4154/t/184/138/d/gettyimages-1466480060_1280x960.jpg'&amp;gt;&amp;lt;/a&amp;gt;</description>
       
       
+      
+      
       <pubDate>2023-10-17T08:26:00+09:00</pubDate>
       
+      
+    
     
     </item>
     
     
+    
+    
     <item>
+      
+      
       
       
       <title>AIを仕事と暮らしに活かす--時間管理や心身の健康などに役立つ6つのAIツール</title>
       
       
+      
+      
       <link>https://japan.zdnet.com/article/35210028/</link>
+      
+      
       
       
       <description>「ChatGPT」以外にも有用なAIツールが多数提供されている。仕事と私生活に役立つAI対応のアプリ／拡張機能を6つ紹介する。&amp;lt;br clear='left'&amp;gt;&amp;lt;a href='https://japan.zdnet.com/article/35210028/'&amp;gt;&amp;lt;img src='https://japan.zdnet.com/storage/2023/10/10/a137248a85ee6bdbddb8b4a103887ac4/t/184/138/d/gettyimages-860802312_1280x960.jpg'&amp;gt;&amp;lt;/a&amp;gt;</description>
       
       
+      
+      
       <pubDate>2023-10-17T07:30:00+09:00</pubDate>
       
+      
+    
     
     </item>
     
     
+    
+    
     <item>
+      
+      
       
       
       <title>DX推進部長が語る、ローコードツールを活用した内製開発で業務効率化を実現</title>
       
       
+      
+      
       <link>https://japan.zdnet.com/pickup/claris_202310/35209499/</link>
+      
+      
       
       
       <description>[PR]近年のDXブームのなか、企業のデジタル実装が急速に進んでいる。ただ企業のデジタル変革の本来の目的とは、最新のツールを導入して使えるようになることではなく、デジタル技術の活用で業務を高度化、効率化させることにある。&amp;lt;br clear='left'&amp;gt;&amp;lt;a href='https://japan.zdnet.com/pickup/claris_202310/35209499/'&amp;gt;&amp;lt;img src='https://japan.zdnet.com/storage/2023/10/02/0d08620de18d72aa9663a73f70095c67/t/184/138/d/thumb_claris_800.jpg'&amp;gt;&amp;lt;/a&amp;gt;</description>
       
       
+      
+      
       <pubDate>2023-10-16T12:00:00+09:00</pubDate>
       
+      
+    
     
     </item>
     
     
+    
+    
     <item>
+      
+      
       
       
       <title>グーグル、生成AIユーザーを著作権侵害の訴訟から擁護すると発表</title>
       
       
+      
+      
       <link>https://japan.zdnet.com/article/35210289/</link>
+      
+      
       
       
       <description>グーグルは、「Google Cloud」と「Workspace」のユーザーが生成AIの使用に関連して知的所有権侵害で訴えられた場合、補償をすると発表した。&amp;lt;br clear='left'&amp;gt;&amp;lt;a href='https://japan.zdnet.com/article/35210289/'&amp;gt;&amp;lt;img src='https://japan.zdnet.com/storage/2023/10/16/f036b6004de96b5aed0d33e612948b76/t/184/138/d/umbrella_1280x960.jpg'&amp;gt;&amp;lt;/a&amp;gt;</description>
       
       
+      
+      
       <pubDate>2023-10-16T08:21:00+09:00</pubDate>
       
+      
+    
     
     </item>
     
     
+    
+    
     <item>
+      
+      
       
       
       <title>高まる画像生成AIサービスへの期待--社会課題の解決がカギに</title>
       
       
+      
+      
       <link>https://japan.zdnet.com/article/35209750/</link>
+      
+      
       
       
       <description>「ChatGPT」などの生成AIの普及に伴い、画像領域でも生成AIの利用の是非に関する議論や新サービスの登場などさまざまな動きが出てきている。一方で、AIによる不正な画像の改変を抑止するマサチューセッツ工科大学が考案した技術「PhotoGuard」など、画像生成AIへの期待と不安を映すような報道をしている状況だ。&amp;lt;br clear='left'&amp;gt;&amp;lt;a href='https://japan.zdnet.com/article/35209750/'&amp;gt;&amp;lt;img src='https://japan.zdnet.com/storage/2023/10/06/541d3a6f5afb707024d80ce124fa66c9/t/184/138/d/thumb_ig_ai_1280.jpg'&amp;gt;&amp;lt;/a&amp;gt;</description>
       
       
+      
+      
       <pubDate>2023-10-16T07:00:00+09:00</pubDate>
       
+      
+    
     
     </item>
     
     
+    
+    
     <item>
+      
+      
       
       
       <title>AIとオープンソースの困難な関係--進む新たな定義作り</title>
       
       
+      
+      
       <link>https://japan.zdnet.com/article/35210238/</link>
+      
+      
       
       
       <description>AIとオープンソースは切っても切れない関係にあるにも関わらず、その相性は良くない。この記事では、AIとオープンソースの関係について振り返り、その問題を解決しようとする試みについて紹介する。&amp;lt;br clear='left'&amp;gt;&amp;lt;a href='https://japan.zdnet.com/article/35210238/'&amp;gt;&amp;lt;img src='https://japan.zdnet.com/storage/2023/10/13/9e74325fbd832c1389e4f07116dce576/t/184/138/d/bulbs-gettyimages-486549765_1280x960.jpg'&amp;gt;&amp;lt;/a&amp;gt;</description>
       
       
+      
+      
       <pubDate>2023-10-16T06:30:00+09:00</pubDate>
       
+      
+    
     
     </item>
     
     
+    
+    
     <item>
+      
+      
       
       
       <title>日立ソリューションズ、生成AIモデルを活用したローコードアプリ開発の支援サービスを提供</title>
       
       
+      
+      
       <link>https://japan.zdnet.com/article/35210252/</link>
+      
+      
       
       
       <description>日立ソリューションズは、生成AIモデルを活用したローコードアプリ開発を支援するサービスの提供を開始した。&amp;lt;br clear='left'&amp;gt;&amp;lt;a href='https://japan.zdnet.com/article/35210252/'&amp;gt;&amp;lt;img src='https://japan.zdnet.com/storage/2022/11/25/760b051ef8caff8a9b36135fb3f9d042/t/184/138/d/221125_lowcode_as_1280.jpg'&amp;gt;&amp;lt;/a&amp;gt;</description>
       
       
+      
+      
       <pubDate>2023-10-13T16:37:00+09:00</pubDate>
       
+      
+    
     
     </item>
     
     
+    
+    
     <item>
+      
+      
       
       
       <title>アドバンスト・メディア、建設現場の議事録作成をAIと人のコラボで効率化</title>
       
       
+      
+      
       <link>https://japan.zdnet.com/article/35210194/</link>
+      
+      
       
       
       <description>アドバンスト・メディアは、建設現場向けの議事録作成代行サービス「AmiVoice スーパースクライバー」の提供を開始した。ユーザーは納品された議事録内容の確認のみ行い、大幅な業務効率化が期待できるとしている。&amp;lt;br clear='left'&amp;gt;&amp;lt;a href='https://japan.zdnet.com/article/35210194/'&amp;gt;&amp;lt;img src='https://japan.zdnet.com/storage/2023/07/10/2420d32d441aa2f8cc739d99a31af644/t/184/138/d/230710_hr_as_1280_253245870.jpeg'&amp;gt;&amp;lt;/a&amp;gt;</description>
       
       
+      
+      
       <pubDate>2023-10-13T15:27:00+09:00</pubDate>
       
+      
+    
     
     </item>
     
     
+    
+    
     <item>
+      
+      
       
       
       <title>三重県、DX推進基盤に「Microsoft 365」を採用--アルファテック・ソリューションズが支援</title>
       
       
+      
+      
       <link>https://japan.zdnet.com/article/35210187/</link>
+      
+      
       
       
       <description>三重県は、職員7500ユーザーが利用するコミュニケーション基盤を「Microsoft 365」環境へと移行した。同環境の設計、導入、移行、運用をトータルサポートしたアルファテック・ソリューションズが発表した。&amp;lt;br clear='left'&amp;gt;&amp;lt;a href='https://japan.zdnet.com/article/35210187/'&amp;gt;&amp;lt;img src='https://japan.zdnet.com/storage/2021/10/18/289f0c08c486b1e194ed149716df4eb9/t/184/138/d/lg_cloud06.png'&amp;gt;&amp;lt;/a&amp;gt;</description>
       
       
+      
+      
       <pubDate>2023-10-13T14:58:00+09:00</pubDate>
       
+      
+    
     
     </item>
     
     
+    
+    
     <item>
+      
+      
       
       
       <title>PwCコンサルティング、ローコード開発基盤「Digital Maker」を提供</title>
       
       
+      
+      
       <link>https://japan.zdnet.com/article/35210225/</link>
+      
+      
       
       
       <description>PwCコンサルティングは10月12日、ローコード開発プラットフォーム「Digital Maker」のサービス提供を開始した。&amp;lt;br clear='left'&amp;gt;&amp;lt;a href='https://japan.zdnet.com/article/35210225/'&amp;gt;&amp;lt;img src='https://japan.zdnet.com/storage/2023/10/13/a07648f92c40e1a2f545f65751504edd/t/184/138/d/231012_pwc_001.png'&amp;gt;&amp;lt;/a&amp;gt;</description>
       
       
+      
+      
       <pubDate>2023-10-13T11:26:00+09:00</pubDate>
       
+      
+    
     
     </item>
+    
+    
     
     
     <item>
       
       
+      
+      
       <title>「生成AIの利用料金なし」を打ち出したZoom CEOの思惑</title>
       
       
+      
+      
       <link>https://japan.zdnet.com/article/35210185/</link>
+      
+      
       
       
       <description>今回は、Zoom Video Communications CEO ＆ 創業者のEric Yuan氏と、テラスカイ 取締役 専務執行役員 事業ユニット長の山田誠氏の発言を紹介する。
 &amp;lt;br clear='left'&amp;gt;&amp;lt;a href='https://japan.zdnet.com/article/35210185/'&amp;gt;&amp;lt;img src='https://japan.zdnet.com/storage/2023/10/13/42a365e2a6bda9e2a78f54f9a4d0c066/t/184/138/d/231013_matsuoka_000.jpg'&amp;gt;&amp;lt;/a&amp;gt;</description>
       
       
+      
+      
       <pubDate>2023-10-13T11:00:00+09:00</pubDate>
       
+      
+    
     
     </item>
+    
+    
     
     
     <item>
       
       
+      
+      
       <title>ランサムウェア被害組織の83％が身代金を支払い--AI悪用の攻撃も懸念</title>
+      
+      
       
       
       <link>https://japan.zdnet.com/article/35210217/</link>
       
       
+      
+      
       <description>Splunkが公表した「2023年CISOレポート」から、多くの組織はランサムウェア攻撃に対して身代金を支払っていることが明らかになった。&amp;lt;br clear='left'&amp;gt;&amp;lt;a href='https://japan.zdnet.com/article/35210217/'&amp;gt;&amp;lt;img src='https://japan.zdnet.com/storage/2023/10/13/757f652406036b8804b0a1a881b385e7/t/184/138/d/corrupted-gettyimages-654400107_1280x960.jpg'&amp;gt;&amp;lt;/a&amp;gt;</description>
+      
+      
       
       
       <pubDate>2023-10-13T10:02:00+09:00</pubDate>
       
+      
+    
     
     </item>
     
+    
+  
   
   </channel>
   
+  
+
 
 </rss>
