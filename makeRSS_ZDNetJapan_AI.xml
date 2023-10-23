@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>特定のキーワードを含むRSS</title>
+    <description>指定したキーワードを含む記事を提供します。</description>
+    <link>https://example.com</link>
+    <item>
+      <title>DX、クラウド化、働き方改革--増えるSIerの売り上げ</title>
+      <link>https://japan.zdnet.com/article/35210472/</link>
+      <description>システムインテグレーター（SIer）が、これからどのように成功を収めるのかをテーマに、関連する記事を集めた。&amp;lt;br clear='left'&amp;gt;&amp;lt;a href='https://japan.zdnet.com/article/35210472/'&amp;gt;&amp;lt;img src='https://japan.zdnet.com/storage/2023/10/19/1fa4494481d9a93606ab5f1246bd5d13/t/184/138/d/thumb_sier_1280.jpg'&amp;gt;&amp;lt;/a&amp;gt;</description>
+      <pubDate>2023-10-23T07:35:00+09:00</pubDate>
+    </item>
+    <item>
+      <title>汎用人工知能（AGI）の可能性--実現までの道のりと規制などの課題</title>
+      <link>https://japan.zdnet.com/article/35210394/</link>
+      <description>汎用人工知能（AGI）は、多くの企業や国家が実現を目指している技術だ。AGIの概要、現在のAIとの違い、実現までの期間、規制をめぐる状況などについて解説する。&amp;lt;br clear='left'&amp;gt;&amp;lt;a href='https://japan.zdnet.com/article/35210394/'&amp;gt;&amp;lt;img src='https://japan.zdnet.com/storage/2023/10/18/b1ef33f73bbdd03bb9eb21f5d6f7b1cc/t/184/138/d/gettyimages-1494143619_1280x960.jpg'&amp;gt;&amp;lt;/a&amp;gt;</description>
+      <pubDate>2023-10-23T07:30:00+09:00</pubDate>
+    </item>
+    <item>
+      <title>AIがDevOpsに与える影響はいまだ不明確--Google Cloud調査</title>
+      <link>https://japan.zdnet.com/article/35210407/</link>
+      <description>人工知能（AI）はソフトウェア開発の生産性を大きく引き上げると期待されているが、現状ではまだその段階にまで至っていないようだ。本記事では、そういった状況の中、DevOpsの生産性を高めていく方策について解説する。
+&amp;lt;br clear='left'&amp;gt;&amp;lt;a href='https://japan.zdnet.com/article/35210407/'&amp;gt;&amp;lt;img src='https://japan.zdnet.com/storage/2023/10/19/4978596e7c2c1560bcd17b2025ebc095/t/184/138/d/gettyimages-1226866390_1280x960.jpg'&amp;gt;&amp;lt;/a&amp;gt;</description>
+      <pubDate>2023-10-23T06:30:00+09:00</pubDate>
+    </item>
+    <item>
+      <title>ゲーム業界のマーケティング課題をAIで解決するには</title>
+      <link>https://japan.zdnet.com/article/35210195/</link>
+      <description>人工知能（AI）が再び脚光を浴びるにつれ、ゲーム業界でもAIの活用について耳にすることが増えてきた。データサイエンスやAIを活用したマーケティングがゲーム業界の発展に対し、どのように貢献しているかについて概説する。&amp;lt;br clear='left'&amp;gt;&amp;lt;a href='https://japan.zdnet.com/article/35210195/'&amp;gt;&amp;lt;img src='https://japan.zdnet.com/storage/2023/10/12/9e67231f50129ff8d273d0927356e0ad/t/184/138/d/231012_appier_005.jpg'&amp;gt;&amp;lt;/a&amp;gt;</description>
+      <pubDate>2023-10-20T07:00:00+09:00</pubDate>
+    </item>
+    <item>
+      <title>AIプロジェクトを成功させるために必要なデータ戦略とは</title>
+      <link>https://japan.zdnet.com/article/35210470/</link>
+      <description>データは現代の企業にとって大きな価値を持っているが、AIや機械学習を十分に活用するためには、データの品質を高めることを含めて、しっかりとしたデータ戦略を定めて実践する必要がある。この記事では、ExxonMobilのデータ責任者に話を聞いた。&amp;lt;br clear='left'&amp;gt;&amp;lt;a href='https://japan.zdnet.com/article/35210470/'&amp;gt;&amp;lt;img src='https://japan.zdnet.com/storage/2023/10/19/7f5b4c690dbf9c797a27647874a120db/t/184/138/d/datas-gettyimages-1300497464_1280x960.jpg'&amp;gt;&amp;lt;/a&amp;gt;</description>
+      <pubDate>2023-10-20T06:30:00+09:00</pubDate>
+    </item>
+    <item>
+      <title>テクノロジー・スプリントによる新たな成長基盤の構築</title>
+      <link>https://japan.zdnet.com/article/35210259/</link>
+      <description>多くの企業から「DXで思うような成果につながらない」との悩みが聞かれる。テクノロジーに目を奪われることなく「人起点」のビジネス変革をCIOが成し遂げていくためはどうすれば良いだろうか。
+連載の第2回となる。&amp;lt;br clear='left'&amp;gt;&amp;lt;a href='https://japan.zdnet.com/article/35210259/'&amp;gt;&amp;lt;img src='https://japan.zdnet.com/storage/2023/09/08/4b6cc0d39ec568387b34f3ee38407ea2/t/184/138/d/230908_peoplesdx_as_1280_49.jpg'&amp;gt;&amp;lt;/a&amp;gt;</description>
+      <pubDate>2023-10-20T06:00:00+09:00</pubDate>
+    </item>
+    <item>
+      <title>RPAで終わるべからず--業務プロセスの高度化を訴求するBlue Prism</title>
+      <link>https://japan.zdnet.com/article/35210063/</link>
+      <description>RPAは定型業務の効率化で評価を集めたが、ブループリズムは業務プロセス全体の高度化がより重要だと指摘する。新体制となった同社の戦略を聞いた。&amp;lt;br clear='left'&amp;gt;&amp;lt;a href='https://japan.zdnet.com/article/35210063/'&amp;gt;&amp;lt;img src='https://japan.zdnet.com/storage/2023/10/10/e13698b5851d0d5f2fde35993b25c922/t/184/138/d/sscblueprism01.jpg'&amp;gt;&amp;lt;/a&amp;gt;</description>
+      <pubDate>2023-10-20T06:00:00+09:00</pubDate>
+    </item>
+    <item>
+      <title>競合は米国企業--富士通が研究開発リソースを投じる、5つの技術領域</title>
+      <link>https://japan.zdnet.com/article/35210442/</link>
+      <description>富士通は「研究開発リソースを集中している5つの技術領域」に関する研究戦略説明会を開催した。執行役員 SEVP CTO、CPO 兼 システムプラットフォームBG Co-HeadのVivek Mahajan氏は「当社の戦略は『Fujitsu Uvance』を通じてお客さまに新しいソリューションを提供し、DXの最大のパートナーになるというもの」と説明した。&amp;lt;br clear='left'&amp;gt;&amp;lt;a href='https://japan.zdnet.com/article/35210442/'&amp;gt;&amp;lt;img src='https://japan.zdnet.com/storage/2023/10/19/e723a4eb4209554eca38646c269536b5/t/184/138/d/231011_fujitsu_000.JPG'&amp;gt;&amp;lt;/a&amp;gt;</description>
+      <pubDate>2023-10-19T13:20:00+09:00</pubDate>
+    </item>
+  </channel>
+</rss>
