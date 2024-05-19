@@ -4418,5 +4418,17 @@
       <description>AWSジャパンは、AWSが提供する生成AIアシスタント「Amazon Q」と生成AIアプリケーションの構築基盤「Amazon Bedrock」に関するアップデート情報を説明した。&amp;lt;br clear='left'&amp;gt;&amp;lt;a href='https://japan.zdnet.com/article/35219048/'&amp;gt;&amp;lt;img src='https://japan.zdnet.com/storage/2024/05/17/45b833f9b646baa815c24be231deae82/t/184/138/d/240517_aws_001.jpg'&amp;gt;&amp;lt;/a&amp;gt;</description>
       <pubDate>2024-05-17T15:30:00+09:00</pubDate>
     </item>
+    <item>
+      <title>日立、「HARC」サービスでクラウド運用を伴走支援--グローバルで培ったSRE手法を実践</title>
+      <link>https://japan.zdnet.com/article/35219040/</link>
+      <description>日立製作所では、2023年6月から「Hitachi Application Reliability Centers（HARC）」と呼ばれるマネージドサービスを国内展開している。運用の自動化を推進するSite Reliability Engineering（SRE）の手法に基づき、システムの俊敏性と信頼性の両立、セキュリティの強化、クラウドコストの最適化などを支援する。&amp;lt;br clear='left'&amp;gt;&amp;lt;a href='https://japan.zdnet.com/article/35219040/'&amp;gt;&amp;lt;img src='https://japan.zdnet.com/storage/2024/05/17/50f6d7237443e5eb1870aaa0bb987f64/t/184/138/d/240515_hitachi_prem_large.jpg'&amp;gt;&amp;lt;/a&amp;gt;</description>
+      <pubDate>2024-05-20T07:00:00+09:00</pubDate>
+    </item>
+    <item>
+      <title>DDoS攻撃は「ハイパーボリューム型」で生成AIとともに巧妙化--クラウドフレア</title>
+      <link>https://japan.zdnet.com/article/35219081/</link>
+      <description>クラウドフレアはDDoS攻撃のトレンドを発表した。近年は、少数のボットで膨大なリクエスト生成し、標的に送り付けるタイプの攻撃が拡大している。&amp;lt;br clear='left'&amp;gt;&amp;lt;a href='https://japan.zdnet.com/article/35219081/'&amp;gt;&amp;lt;img src='https://japan.zdnet.com/storage/2021/10/14/c0364925a0aefd95008cb9dba0b9653c/t/184/138/d/ddos-traffic_1280x960.jpg'&amp;gt;&amp;lt;/a&amp;gt;</description>
+      <pubDate>2024-05-20T06:30:00+09:00</pubDate>
+    </item>
   </channel>
 </rss>
