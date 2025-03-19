@@ -11078,5 +11078,11 @@
       <description>米Workdayが、多種多様なAIエージェントを一元管理するソリューションを発表した。しかもマルチベンダー対応が可能ということで、ユーザーニーズを先取りした形だ。AIエージェントの活用も人事管理の対象という同社ならではの発想が興味深かったので、ワークデイ CTOの小今井裕氏に、その意義や普及拡大策について聞いた。&amp;lt;br clear='left'&amp;gt;&amp;lt;a href='https://japan.zdnet.com/article/35230656/'&amp;gt;&amp;lt;img src='https://japan.zdnet.com/storage/2025/03/19/72ad7aa6bdda534f82bf7c32841b317d/t/184/138/d/250319_matsuoka_000.jpg'&amp;gt;&amp;lt;/a&amp;gt;</description>
       <pubDate>2025-03-19T10:44:00+09:00</pubDate>
     </item>
+    <item>
+      <title>NTT Com、「IOWN APN」でGPUサーバーの分散DCを構築--3拠点連携で生成AI学習に成功</title>
+      <link>https://japan.zdnet.com/article/35230699/</link>
+      <description>NTTコミュニケーションズ（NTT Com）は、次世代情報通信基盤「IOWN構想」の主要技術「オールフォトニクスネットワーク」（APN）で接続した3拠点のデータセンター（DC）にGPUサーバー「NVIDIA H100」を分散配置した環境を構築。この環境下で、「NVIDIA NeMo」を用いた大規模言語モデル（LLM）「tsuzumi」の学習に成功した。&amp;lt;br clear='left'&amp;gt;&amp;lt;a href='https://japan.zdnet.com/article/35230699/'&amp;gt;&amp;lt;img src='https://japan.zdnet.com/storage/2025/03/19/97605c1c26b676de7a76dac68941488c/t/184/138/d/250319_network_as_1280_310209942.jpg'&amp;gt;&amp;lt;/a&amp;gt;</description>
+      <pubDate>2025-03-19T14:21:00+09:00</pubDate>
+    </item>
   </channel>
 </rss>
